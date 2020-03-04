@@ -1,0 +1,81 @@
+\contentsline {section}{摘要}{I}{section*.2}% 
+\contentsline {section}{Abstract}{III}{section*.3}% 
+\contentsline {section}{\numberline {1}课题概述}{1}{section.1}% 
+\contentsline {subsection}{\numberline {1.1}花卉识别的目的和意义}{1}{subsection.1.1}% 
+\contentsline {subsection}{\numberline {1.2}花卉识别的发展现状}{1}{subsection.1.2}% 
+\contentsline {subsection}{\numberline {1.3}花卉识别的难点}{2}{subsection.1.3}% 
+\contentsline {subsection}{\numberline {1.4}问题描述}{2}{subsection.1.4}% 
+\contentsline {section}{\numberline {2}算法分析}{3}{section.2}% 
+\contentsline {subsection}{\numberline {2.1}需求分析}{3}{subsection.2.1}% 
+\contentsline {subsubsection}{\numberline {2.1.1}完成目标}{3}{subsubsection.2.1.1}% 
+\contentsline {subsubsection}{\numberline {2.1.2}数据来源}{3}{subsubsection.2.1.2}% 
+\contentsline {subsubsection}{\numberline {2.1.3}软件需求}{4}{subsubsection.2.1.3}% 
+\contentsline {subsection}{\numberline {2.2}研究方案设计}{4}{subsection.2.2}% 
+\contentsline {subsection}{\numberline {2.3}图像分割}{5}{subsection.2.3}% 
+\contentsline {subsubsection}{\numberline {2.3.1}基于HSV特征的图像分割方法}{5}{subsubsection.2.3.1}% 
+\contentsline {subsubsection}{\numberline {2.3.2}基于OTSU的颜色分割}{6}{subsubsection.2.3.2}% 
+\contentsline {subsection}{\numberline {2.4}特征提取}{6}{subsection.2.4}% 
+\contentsline {subsubsection}{\numberline {2.4.1}基于视觉词汇的特征提取}{6}{subsubsection.2.4.1}% 
+\contentsline {subsubsubsection}{\numberline {2.4.1.1}颜色词汇}{7}{subsubsubsection.2.4.1.1}% 
+\contentsline {subsubsubsection}{\numberline {2.4.1.2}形状词汇和纹理词汇}{8}{subsubsubsection.2.4.1.2}% 
+\contentsline {subsubsubsection}{\numberline {2.4.1.3}组合词汇}{8}{subsubsubsection.2.4.1.3}% 
+\contentsline {subsubsection}{\numberline {2.4.2}基于融合特征描述子的特征提取}{9}{subsubsection.2.4.2}% 
+\contentsline {subsubsubsection}{\numberline {2.4.2.1}Dense SIFT和Edge SIFT特征提取}{10}{subsubsubsection.2.4.2.1}% 
+\contentsline {subsubsubsection}{\numberline {2.4.2.2}Locality-constrained Linear Coding}{10}{subsubsubsection.2.4.2.2}% 
+\contentsline {subsubsubsection}{\numberline {2.4.2.3}空间金字塔池化}{12}{subsubsubsection.2.4.2.3}% 
+\contentsline {subsubsection}{\numberline {2.4.3}基于稀疏编码的SIFT特征}{12}{subsubsection.2.4.3}% 
+\contentsline {subsubsection}{\numberline {2.4.4}基于分割的分形纹理分析}{13}{subsubsection.2.4.4}% 
+\contentsline {subsubsubsection}{\numberline {2.4.4.1}两阈值二值化分解}{13}{subsubsubsection.2.4.4.1}% 
+\contentsline {subsubsubsection}{\numberline {2.4.4.2}SFTA特征提取}{14}{subsubsubsection.2.4.4.2}% 
+\contentsline {subsection}{\numberline {2.5}机器学习分类算法}{16}{subsection.2.5}% 
+\contentsline {subsubsection}{\numberline {2.5.1}支持向量机}{16}{subsubsection.2.5.1}% 
+\contentsline {subsubsection}{\numberline {2.5.2}随机森林}{17}{subsubsection.2.5.2}% 
+\contentsline {subsubsection}{\numberline {2.5.3}极限学习机}{18}{subsubsection.2.5.3}% 
+\contentsline {subsubsubsection}{\numberline {2.5.3.1}Moore-Penrose广义逆矩阵}{19}{subsubsubsection.2.5.3.1}% 
+\contentsline {subsubsubsection}{\numberline {2.5.3.2}一般线性系统的最小范数最小二乘解}{19}{subsubsubsection.2.5.3.2}% 
+\contentsline {subsubsubsection}{\numberline {2.5.3.3}极限学习机的基本原理}{19}{subsubsubsection.2.5.3.3}% 
+\contentsline {subsection}{\numberline {2.6}深度神经网络}{21}{subsection.2.6}% 
+\contentsline {subsubsection}{\numberline {2.6.1}卷积神经网络概述}{22}{subsubsection.2.6.1}% 
+\contentsline {subsubsection}{\numberline {2.6.2}卷积神经网络的反向传播过程}{23}{subsubsection.2.6.2}% 
+\contentsline {subsubsection}{\numberline {2.6.3}常用的卷积神经网络}{24}{subsubsection.2.6.3}% 
+\contentsline {subsubsubsection}{\numberline {2.6.3.1}VGG-16}{24}{subsubsubsection.2.6.3.1}% 
+\contentsline {subsubsubsection}{\numberline {2.6.3.2}Fully-Convolutional Network}{24}{subsubsubsection.2.6.3.2}% 
+\contentsline {subsubsection}{\numberline {2.6.4}Snapshot Ensembles}{26}{subsubsection.2.6.4}% 
+\contentsline {section}{\numberline {3}实验系统设计}{28}{section.3}% 
+\contentsline {subsection}{\numberline {3.1}总体算法流程图}{28}{subsection.3.1}% 
+\contentsline {subsection}{\numberline {3.2}方案一：基于视觉词汇的花卉识别方法}{29}{subsection.3.2}% 
+\contentsline {subsubsection}{\numberline {3.2.1}算法流程}{29}{subsubsection.3.2.1}% 
+\contentsline {subsubsection}{\numberline {3.2.2}程序模块说明}{30}{subsubsection.3.2.2}% 
+\contentsline {subsection}{\numberline {3.3}方案二：基于融合特征描述子的花卉识别方法}{30}{subsection.3.3}% 
+\contentsline {subsubsection}{\numberline {3.3.1}算法流程}{30}{subsubsection.3.3.1}% 
+\contentsline {subsubsection}{\numberline {3.3.2}程序模块说明}{31}{subsubsection.3.3.2}% 
+\contentsline {subsection}{\numberline {3.4}方案三：基于Sparse-SIFT的花卉识别方法}{32}{subsection.3.4}% 
+\contentsline {subsubsection}{\numberline {3.4.1}算法流程}{32}{subsubsection.3.4.1}% 
+\contentsline {subsubsection}{\numberline {3.4.2}程序模块说明}{33}{subsubsection.3.4.2}% 
+\contentsline {subsection}{\numberline {3.5}方案四：基于SFTA的花卉识别方法}{33}{subsection.3.5}% 
+\contentsline {subsubsection}{\numberline {3.5.1}算法流程}{33}{subsubsection.3.5.1}% 
+\contentsline {subsubsection}{\numberline {3.5.2}程序模块说明}{34}{subsubsection.3.5.2}% 
+\contentsline {subsection}{\numberline {3.6}方案五：基于卷积神经网络的花卉识别方法}{35}{subsection.3.6}% 
+\contentsline {subsection}{\numberline {3.7}方案六：基于迁移学习的卷积神经网络的花卉识别方法}{35}{subsection.3.7}% 
+\contentsline {subsection}{\numberline {3.8}方案七：基于全卷积神经网络和迁移学习的花卉识别方法}{36}{subsection.3.8}% 
+\contentsline {section}{\numberline {4}实验结果分析}{38}{section.4}% 
+\contentsline {subsection}{\numberline {4.1}图片实验示例}{38}{subsection.4.1}% 
+\contentsline {subsubsection}{\numberline {4.1.1}图片分割示例}{38}{subsubsection.4.1.1}% 
+\contentsline {subsubsection}{\numberline {4.1.2}图片识别示例}{39}{subsubsection.4.1.2}% 
+\contentsline {subsection}{\numberline {4.2}实验结果及其分析}{40}{subsection.4.2}% 
+\contentsline {subsubsection}{\numberline {4.2.1}基于手动特征提取的花卉识别方法}{40}{subsubsection.4.2.1}% 
+\contentsline {subsubsection}{\numberline {4.2.2}深度学习方法}{44}{subsubsection.4.2.2}% 
+\contentsline {section}{\numberline {5}总结与展望}{47}{section.5}% 
+\contentsline {section}{参考文献}{49}{section*.36}% 
+\contentsline {section}{附录 \numberline {A}补充的图像处理知识}{52}{附录.1.A}% 
+\contentsline {subsection}{\numberline {A.1}SIFT特征提取算子}{52}{subsection.1.A.1}% 
+\contentsline {subsection}{\numberline {A.2}LBP算子}{55}{subsection.1.A.2}% 
+\contentsline {subsection}{\numberline {A.3}Canny算子}{56}{subsection.1.A.3}% 
+\contentsline {section}{附录 \numberline {B}神经网络简介}{57}{附录.1.B}% 
+\contentsline {subsection}{\numberline {B.1}神经网络概述}{57}{subsection.1.B.1}% 
+\contentsline {subsection}{\numberline {B.2}反向传播算法}{57}{subsection.1.B.2}% 
+\contentsline {section}{附录 \numberline {C}代码}{59}{附录.1.C}% 
+\contentsline {subsection}{\numberline {C.1}文件夹：test}{59}{subsection.1.C.1}% 
+\contentsline {subsection}{\numberline {C.2}文件夹：fsvm}{68}{subsection.1.C.2}% 
+\contentsline {subsection}{\numberline {C.3}文件夹：fSVMoRF}{82}{subsection.1.C.3}% 
+\contentsline {subsection}{\numberline {C.4}文件夹：fRemote}{94}{subsection.1.C.4}% 

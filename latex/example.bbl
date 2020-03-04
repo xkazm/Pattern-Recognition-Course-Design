@@ -1,0 +1,185 @@
+\begin{thebibliography}{10}
+\providecommand{\bibauthor}[1]{#1}
+\providecommand{\bibeditor}[1]{#1}
+\providecommand{\bibtranslator}[1]{#1}
+\providecommand{\bibtitle}[1]{#1}
+\providecommand{\bibbooktitle}[1]{#1}
+\providecommand{\bibjournal}[1]{#1}
+\providecommand{\bibmark}[1]{#1}
+\providecommand{\bibcountry}[1]{#1}
+\providecommand{\bibpatentid}[1]{#1}
+\providecommand{\bibedition}[1]{#1}
+\providecommand{\biborganization}[1]{#1}
+\providecommand{\bibaddress}[1]{#1}
+\providecommand{\bibpublisher}[1]{#1}
+\providecommand{\bibinstitution}[1]{#1}
+\providecommand{\bibschool}[1]{#1}
+\providecommand{\bibvolume}[1]{#1}
+\providecommand{\bibnumber}[1]{#1}
+\providecommand{\bibversion}[1]{#1}
+\providecommand{\bibpages}[1]{#1}
+\providecommand{\bibmodifydate}[1]{#1}
+\providecommand{\bibcitedate}[1]{#1}
+\providecommand{\bibyear}[1]{#1}
+\providecommand{\bibdate}[1]{#1}
+\providecommand{\biburl}[1]{\newline\url{#1}}
+
+\bibitem{6968612}
+\bibauthor{{Zawbaa} H~M\@, {Abbass} M\@, {Basha} S~H, et~al}\@. \bibtitle{An
+  automatic flower classification approach using machine learning
+  algorithms}\bibmark{[C]} //\thinspace{}\bibbooktitle{2014 International
+  Conference on Advances in Computing, Communications and Informatics
+  (ICACCI)}\@. \bibyear{2014}\thinspace{}\textnormal{:
+  }\bibpages{895\thinspace{}\textnormal{--}\thinspace{}901}\@.
+
+\bibitem{7818296}
+\bibauthor{{Liu} Y\@, {Tang} F\@, {Zhou} D, et~al}\@. \bibtitle{Flower
+  classification via convolutional neural network}\bibmark{[C]}
+  //\thinspace{}\bibbooktitle{2016 IEEE International Conference on
+  Functional-Structural Plant Growth Modeling, Simulation, Visualization and
+  Applications (FSPMA)}\@. \bibyear{2016}\thinspace{}\textnormal{:
+  }\bibpages{110\thinspace{}\textnormal{--}\thinspace{}116}\@.
+
+\bibitem{1640927}
+\bibauthor{{Nilsback} M~\@, {Zisserman} A}\@. \bibtitle{A Visual Vocabulary for
+  Flower Classification}\bibmark{[C]} //\thinspace{}\bibbooktitle{2006 IEEE
+  Computer Society Conference on Computer Vision and Pattern Recognition
+  (CVPR'06)\thinspace{}\textnormal{: }Vol~2}\@.
+  \bibyear{2006}\thinspace{}\textnormal{:
+  }\bibpages{1447\thinspace{}\textnormal{--}\thinspace{}1454}\@.
+
+\bibitem{new1}
+\bibauthor{KANEKO T\@, SAITOH T}\@. \bibtitle{Automatic Recognition of Wild
+  Flowers}\bibmark{[C/OL]} //\thinspace{}\bibbooktitle{Pattern Recognition,
+  International Conference on\thinspace{}\textnormal{: }Vol~2}\@.
+  \bibaddress{Los Alamitos, CA, USA}\thinspace{}\textnormal{:
+  }\bibpublisher{IEEE Computer Society}\@,
+  \bibyear{2000}\thinspace{}\textnormal{: }\bibpages{2507}\@.
+  \newline\url{https://doi.ieeecomputersociety.org/10.1109/ICPR.2000.906123}\@.
+
+\bibitem{4756141}
+\bibauthor{{Nilsback} M\@, {Zisserman} A}\@. \bibtitle{Automated Flower
+  Classification over a Large Number of Classes}\bibmark{[C]}
+  //\thinspace{}\bibbooktitle{2008 Sixth Indian Conference on Computer Vision,
+  Graphics Image Processing}\@. \bibyear{2008}\thinspace{}\textnormal{:
+  }\bibpages{722\thinspace{}\textnormal{--}\thinspace{}729}\@.
+
+\bibitem{5539947}
+\bibauthor{{Kanan} C\@, {Cottrell} G}\@. \bibtitle{Robust classification of
+  objects, faces, and flowers using natural image statistics}\bibmark{[C]}
+  //\thinspace{}\bibbooktitle{2010 IEEE Computer Society Conference on Computer
+  Vision and Pattern Recognition}\@. \bibyear{2010}\thinspace{}\textnormal{:
+  }\bibpages{2472\thinspace{}\textnormal{--}\thinspace{}2479}\@.
+
+\bibitem{7301274}
+\bibauthor{{Yoo} D\@, {Park} S\@, {Lee} J, et~al}\@. \bibtitle{Multi-scale
+  pyramid pooling for deep convolutional representation}\bibmark{[C]}
+  //\thinspace{}\bibbooktitle{2015 IEEE Conference on Computer Vision and
+  Pattern Recognition Workshops (CVPRW)}\@.
+  \bibyear{2015}\thinspace{}\textnormal{:
+  }\bibpages{71\thinspace{}\textnormal{--}\thinspace{}80}\@.
+
+\bibitem{t1}
+\bibauthor{{Lodh} A\@, {Parekh} R}\@. \bibtitle{Flower recognition system based
+  on color and GIST features}\bibmark{[C]} //\thinspace{}\bibbooktitle{2017
+  Devices for Integrated Circuit (DevIC)}\@.
+  \bibyear{2017}\thinspace{}\textnormal{:
+  }\bibpages{790\thinspace{}\textnormal{--}\thinspace{}794}\@.
+
+\bibitem{t2}
+\bibauthor{{Najjar} A\@, {Zagrouba} E}\@. \bibtitle{Flower image segmentation
+  based on color analysis and a supervised evaluation}\bibmark{[C]}
+  //\thinspace{}\bibbooktitle{2012 International Conference on Communications
+  and Information Technology (ICCIT)}\@.
+  \bibyear{2012}\thinspace{}\textnormal{:
+  }\bibpages{397\thinspace{}\textnormal{--}\thinspace{}401}\@.
+
+\bibitem{8090865}
+\bibauthor{{Liu} W\@, {Rao} Y\@, {Fan} B, et~al}\@. \bibtitle{Flower
+  classification using fusion descriptor and SVM}\bibmark{[C]}
+  //\thinspace{}\bibbooktitle{2017 International Smart Cities Conference
+  (ISC2)}\@. \bibyear{2017}\thinspace{}\textnormal{:
+  }\bibpages{1\thinspace{}\textnormal{--}\thinspace{}4}\@.
+
+\bibitem{5540018}
+\bibauthor{{Wang} J\@, {Yang} J\@, {Yu} K, et~al}\@.
+  \bibtitle{Locality-constrained Linear Coding for image
+  classification}\bibmark{[C]} //\thinspace{}\bibbooktitle{2010 IEEE Computer
+  Society Conference on Computer Vision and Pattern Recognition}\@.
+  \bibyear{2010}\thinspace{}\textnormal{:
+  }\bibpages{3360\thinspace{}\textnormal{--}\thinspace{}3367}\@.
+
+\bibitem{CHENG2014416}
+\bibauthor{CHENG K\@, TAN X}\@. \bibtitle{Sparse representations based
+  attribute learning for flower classification}\bibmark{[J/OL]}\@.
+  \bibjournal{Neurocomputing}\@, \bibyear{2014}\@,
+  \bibvolume{145}\thinspace{}\textnormal{: }\bibpages{416
+  \thinspace{}\textnormal{--}\thinspace{} 426}\@.
+  \newline\url{http://www.sciencedirect.com/science/article/pii/S0925231214005827}\@.
+
+\bibitem{6382737}
+\bibauthor{{Costa} A~F\@, {Humpire-Mamani} G\@, {Traina} A~J~M}\@. \bibtitle{An
+  Efficient Algorithm for Fractal Analysis of Textures}\bibmark{[C]}
+  //\thinspace{}\bibbooktitle{2012 25th SIBGRAPI Conference on Graphics,
+  Patterns and Images}\@. \bibyear{2012}\thinspace{}\textnormal{:
+  }\bibpages{39\thinspace{}\textnormal{--}\thinspace{}46}\@.
+
+\bibitem{5459178}
+\bibauthor{{Wu} J\@, {Rehg} J~M}\@. \bibtitle{Beyond the Euclidean distance:
+  Creating effective visual codebooks using the Histogram Intersection
+  Kernel}\bibmark{[C]} //\thinspace{}\bibbooktitle{2009 IEEE 12th International
+  Conference on Computer Vision}\@. \bibyear{2009}\thinspace{}\textnormal{:
+  }\bibpages{630\thinspace{}\textnormal{--}\thinspace{}637}\@.
+
+\bibitem{1380068}
+\bibauthor{{Guang-Bin Huang}\@, {Qin-Yu Zhu}\@, {Chee-Kheong Siew}}\@.
+  \bibtitle{Extreme learning machine: a new learning scheme of feedforward
+  neural networks}\bibmark{[C]} //\thinspace{}\bibbooktitle{2004 IEEE
+  International Joint Conference on Neural Networks (IEEE Cat.
+  No.04CH37541)\thinspace{}\textnormal{: }Vol~2}\@.
+  \bibyear{2004}\thinspace{}\textnormal{:
+  }\bibpages{985\thinspace{}\textnormal{--}\thinspace{}990 vol.2}\@.
+
+\bibitem{6035797}
+\bibauthor{{Huang} G\@, {Zhou} H\@, {Ding} X, et~al}\@. \bibtitle{Extreme
+  Learning Machine for Regression and Multiclass
+  Classification}\bibmark{[J]}\@. \bibjournal{IEEE Transactions on Systems,
+  Man, and Cybernetics, Part B (Cybernetics)}\@, \bibyear{2012}\@,
+  \bibvolume{42}\bibnumber{(2)}\thinspace{}\textnormal{:
+  }\bibpages{513\thinspace{}\textnormal{--}\thinspace{}529}\@.
+
+\bibitem{DBLP:journals/corr/SimonyanZ14a}
+\bibauthor{SIMONYAN K\@, ZISSERMAN A}\@. \bibtitle{Very Deep Convolutional
+  Networks for Large-Scale Image Recognition}\bibmark{[J/OL]}\@.
+  \bibjournal{CoRR}\@, \bibyear{2014}\@, \bibvolume{abs/1409.1556}\@.
+  \newline\url{http://arxiv.org/abs/1409.1556}\@.
+
+\bibitem{7478072}
+\bibauthor{{Shelhamer} E\@, {Long} J\@, {Darrell} T}\@. \bibtitle{Fully
+  Convolutional Networks for Semantic Segmentation}\bibmark{[J]}\@.
+  \bibjournal{IEEE Transactions on Pattern Analysis and Machine
+  Intelligence}\@, \bibyear{2017}\@,
+  \bibvolume{39}\bibnumber{(4)}\thinspace{}\textnormal{:
+  }\bibpages{640\thinspace{}\textnormal{--}\thinspace{}651}\@.
+
+\bibitem{DBLP:journals/corr/HuangLPLHW17}
+\bibauthor{HUANG G\@, LI Y\@, PLEISS G, et~al}\@. \bibtitle{Snapshot Ensembles:
+  Train 1, get {M} for free}\bibmark{[J/OL]}\@. \bibjournal{CoRR}\@,
+  \bibyear{2017}\@, \bibvolume{abs/1704.00109}\@.
+  \newline\url{http://arxiv.org/abs/1704.00109}\@.
+
+\bibitem{8600536}
+\bibauthor{{Wu} Y\@, {Qin} X\@, {Pan} Y, et~al}\@. \bibtitle{Convolution Neural
+  Network based Transfer Learning for Classification of Flowers}\bibmark{[C]}
+  //\thinspace{}\bibbooktitle{2018 IEEE 3rd International Conference on Signal
+  and Image Processing (ICSIP)}\@. \bibyear{2018}\thinspace{}\textnormal{:
+  }\bibpages{562\thinspace{}\textnormal{--}\thinspace{}566}\@.
+
+\bibitem{8435127}
+\bibauthor{{Hiary} H\@, {Saadeh} H\@, {Saadeh} M, et~al}\@. \bibtitle{Flower
+  classification using deep convolutional neural networks}\bibmark{[J]}\@.
+  \bibjournal{IET Computer Vision}\@, \bibyear{2018}\@,
+  \bibvolume{12}\bibnumber{(6)}\thinspace{}\textnormal{:
+  }\bibpages{855\thinspace{}\textnormal{--}\thinspace{}862}\@.
+
+\end{thebibliography}

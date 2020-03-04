@@ -1,0 +1,54 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/W32TeX)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: example.aux
+The style file: gbt7714-2005.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: Bibs/mybib.bib
+Warning--Require citedate: new1
+Warning--Require citedate: CHENG2014416
+Warning--Require citedate: DBLP:journals/corr/SimonyanZ14a
+Warning--Require citedate: DBLP:journals/corr/HuangLPLHW17
+You've used 21 entries,
+            3051 wiz_defined-function locations,
+            857 strings with 10741 characters,
+and the built_in function-call counts, 41036 in all, are:
+= -- 4628
+> -- 75
+< -- 171
++ -- 3723
+- -- 270
+* -- 1009
+:= -- 4652
+add.period$ -- 0
+call.type$ -- 21
+change.case$ -- 108
+chr.to.int$ -- 0
+cite$ -- 25
+duplicate$ -- 5861
+empty$ -- 1473
+format.name$ -- 216
+if$ -- 10980
+int.to.chr$ -- 0
+int.to.str$ -- 21
+missing$ -- 0
+newline$ -- 90
+num.names$ -- 21
+pop$ -- 528
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 345
+stack$ -- 0
+substring$ -- 5015
+swap$ -- 966
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 4
+while$ -- 508
+width$ -- 23
+write$ -- 302
+(There were 4 warnings)
