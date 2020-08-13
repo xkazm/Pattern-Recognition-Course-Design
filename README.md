@@ -7,6 +7,6 @@ fSVMoRF: containing code using SFTA feature extraction and SVM, RF tp classify f
 
 fsvm: containing code using fusion feature extration and SVM to classify flowers.
 
-test: containg code using visual vocabulary feature extraction and NN classifier to classify flowers.
+test: containing code using visual vocabulary feature extraction and NN classifier to classify flowers.
 
-latex: containg the report paper writed by Latex.
+latex: containing the report paper writed by Latex.
